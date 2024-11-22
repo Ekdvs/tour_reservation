@@ -1,13 +1,13 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
-import Topbra from '../components/Topbra'
 import Footer from '../components/Footer'
+import Topbar from '../components/Topbar'
 
 export default function Home() {
   return (
     <div>
       
-      <Topbra/>
+      <Topbar/>
       <Navbar/>
       <div>
         <div>
